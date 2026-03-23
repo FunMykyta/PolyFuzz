@@ -53,7 +53,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     project_urls={
-        "Documentation": "https://maartengr.github.io/polyfuzz/",
+        "Documentation": "https://maartengr.github.io/PolyFuzz/",
         "Source Code": "https://github.com/MaartenGr/PolyFuzz/",
         "Issue Tracker": "https://github.com/MaartenGr/PolyFuzz/issues",
     },
